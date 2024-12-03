@@ -1,7 +1,3 @@
-# Titan-Alerts
-
-Here’s a catchy README.md content for your GitHub repository that showcases your MERN stack application, Titan Alerts, for tracking events and notifications at California State University, Fullerton:
-
 # Titan Alerts 🚀
 
 Welcome to **Titan Alerts**, the go-to application for all students, faculty, and staff at California State University, Fullerton! Stay updated with the latest campus events, important notifications, and much more. This MERN stack application ensures you never miss out on what's happening around the campus.
